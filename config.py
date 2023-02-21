@@ -14,7 +14,7 @@ class TOKENS:
     BOT_TOKEN_7 = "5248088501:AAHMH1jwe5hSj3MI3rvU7qRrFPTmHckh1EU"
     BOT_TOKEN_8 = "5230151920:AAHhD1dPy0JlNSIUBLHDrsJD3ICMdUSyvqY"
     BOT_TOKEN_9 = "5298933528:AAE-744vuXparWYh4UV8y65IeT5wOhsw0zg"
-    BOT_TOKEN_10 = ""
+    BOT_TOKEN_10 = "5840676016:AAFzXSwsdNdM481sbk4PuLKGa0YC7ntgwjM"
 
 class DATABASE:
     MONGO_DB_URL = "mongodb+srv://Lightyagami10:light@cluster0.zo6bf4g.mongodb.net/?retryWrites=true&w=majority"
